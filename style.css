@@ -21,6 +21,7 @@ h2{
 }
 p {
     color: red;
+	float: center;
 }
 
 nav {
@@ -61,15 +62,12 @@ aside{
     border-color: #080808;
 }
 
-.navbar-fixed-top {
-    top: 0px;
-    border-width: 0 0 1px;
-}
+
 
 
 .navbar {
     position: relative;
-    min-height: 50px;
+    min-height: 50px;s
     margin-bottom: 20px;
     border: 1px solid transparent;
     border: 1px solid transparent;

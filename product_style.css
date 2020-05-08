@@ -45,11 +45,12 @@ aside{
 
 
 .container-nav {
-    <!--width:1170px;-->
+    width:1170px;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+    
 }
 
 .container{
@@ -62,10 +63,6 @@ aside{
     border-color: #080808;
 }
 
-.navbar-fixed-top {
-    top: 0px;
-    border-width: 0 0 1px;
-}
 
 
 .navbar {
@@ -99,6 +96,7 @@ aside{
     padding-left: 0px;
     margin-bottom: 0px;
     list-style: none;
+    width: auto;
 }
 
 .navbar-nav > li > a {
@@ -389,5 +387,3 @@ footer{
 .wrap{
 	min-height:calc(100vh-20px);
 }
-
-
