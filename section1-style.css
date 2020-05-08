@@ -1,0 +1,53 @@
+﻿.container-fluid,.container-setting{
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #020202;
+    background-image: url("image/Trees_background.png")
+}
+
+
+
+
+.panel-title {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 16px;
+    color: inherit;
+}
+
+
+
+
+
+.col-sm-3{	
+	width:20%;
+	position:relative;
+}
+
+.col-sm-4{	
+	width:65%;
+	position:relative;
+	padding-right:15px;
+	padding-let:15px;
+	
+}
+
+
+
+.col-sm-5{
+	width:15%;
+	position:relative;
+}
+.col-sm-3>div:hover{	
+	background-color: #ddd;
+
+}
+
+.list-group>a:hover{
+	color: #9d9d9d;
+    	background-color: transparent;
+
+}
